@@ -2,7 +2,7 @@
 
 ### BREAKING CHANGES
 
-- The following member functions of `BaseContract` are transformed 
+- The following member functions of `BaseContract` transformed
   into properties: `addr()`, `address()`, `balance()`, `keypair()`
 
 ### New Features

@@ -18,6 +18,16 @@
 			]
 		},
 		{
+			"name": "get_tuple",
+			"inputs": [
+			],
+			"outputs": [
+				{"name":"one","type":"uint256"},
+				{"name":"two","type":"uint256"},
+				{"name":"three","type":"uint256"}
+			]
+		},
+		{
 			"name": "m_number",
 			"inputs": [
 			],
